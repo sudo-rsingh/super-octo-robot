@@ -1,0 +1,1 @@
+echo Inside main.sh script
